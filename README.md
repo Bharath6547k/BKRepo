@@ -1,3 +1,3 @@
 # BKRepo
 
-#THis is my first use of github service
+#This is my first use of github service
